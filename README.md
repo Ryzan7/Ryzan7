@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 I have knowledge in Python, SQL.<br>📚 Learning even more about Node.js, Scala, Spark, Hadoop, and Apache Kafka.<br>⌛️Data Scientist, Data Engineer, Machine Learning Engineer, Business Intelligence (BI).</p>
+<p align="left">👨🏻‍💻 I have knowledge in Python, SQL.<br>Learning even more about Node.js, Scala, Spark, Hadoop, and Apache Kafka.<br>Data Scientist, Data Engineer, Machine Learning Engineer, Business Intelligence (BI).</p>
 
 ###
 
